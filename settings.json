@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "BOT24ON7",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "LowkeyNewSMP.aternos.me",
